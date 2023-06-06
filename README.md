@@ -23,3 +23,5 @@ I'm always excited about collaborating on interesting projects or discussing des
 Let's connect and bring our ideas to life! ✨
 
 Thank you for visiting my GitHub profile and taking the time to learn about me. I'm looking forward to connecting with you and exploring opportunities to create amazing designs and applications together.
+
+[![BlazOsredkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlazOsredkar)](https://github.com/anuraghazra/github-readme-stats)
