@@ -1,4 +1,4 @@
-# Hello, I'm [Blaž] from Slovenia! 👋
+# Hello, I'm Blaž from Slovenia! 👋
 
 ## 🎨 UI/UX Designer | 💻 Full Stack Developer | ⚛️ React Enthusiast
 
