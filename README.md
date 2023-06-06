@@ -39,10 +39,10 @@ I'm always eager to expand my skill set and learn new technologies to stay up-to
 
 Continuous learning is crucial to my growth as a designer and developer. Some of the technologies and concepts I'm currently focusing on include:
 
-Next.js
-GraphQL
-Design systems
-User research methodologies
+- Next.js
+- GraphQL
+- Design systems
+- User research methodologies
 
 📫 Get in Touch
 
