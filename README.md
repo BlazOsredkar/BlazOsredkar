@@ -24,6 +24,7 @@ Understanding how to design and optimize database structures allows me to develo
 By integrating my knowledge of databases with my UI/UX design skills, I can create user-centric applications that not only look visually appealing but also provide a smooth and efficient user experience.
 
 🛠️ Tech Stack
+
 Here's a list of technologies and languages I frequently work with:
 
 React (JavaScript/TypeScript)
