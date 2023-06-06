@@ -49,9 +49,8 @@ User research methodologies
 I'm always open to collaborating on interesting projects or discussing design and development ideas. Feel free to reach out to me through the following channels:
 
 
-LinkedIn: Blaž Osredkar
-
-Mail: blazko.osredkar@gmail.com
+- LinkedIn: Blaž Osredkar
+- Mail: blazko.osredkar@gmail.com
 
 Let's connect and create something amazing together!
 
