@@ -17,8 +17,8 @@ Coding is another passion of mine, and I love working on full stack web developm
 
 Here are the databases I have experience with:
 
-PostgreSQL
-MariaDB
+- PostgreSQL
+- MariaDB
 
 Understanding how to design and optimize database structures allows me to develop applications that store and retrieve data seamlessly. Whether it's creating complex queries or ensuring data integrity, I prioritize the performance and reliability of the database layer.
 
@@ -28,13 +28,10 @@ By integrating my knowledge of databases with my UI/UX design skills, I can crea
 
 Here's a list of technologies and languages I frequently work with:
 
-React (JavaScript/TypeScript)
-
-NestJS (Node.js/TypeScript)
-
-C++
-
-C#
+- React (JavaScript/TypeScript)
+- NestJS (Node.js/TypeScript)
+- C++
+- C#
 
 I'm always eager to expand my skill set and learn new technologies to stay up-to-date with the latest trends in the industry.
 
