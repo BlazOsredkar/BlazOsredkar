@@ -47,7 +47,9 @@ I'm always open to collaborating on interesting projects or discussing design an
 
 
 LinkedIn: Blaž Osredkar
+
 Mail: blazko.osredkar@gmail.com
+
 Let's connect and create something amazing together!
 
 Thank you for visiting my GitHub profile and taking the time to learn about me. I look forward to connecting with you and exploring exciting design and development opportunities.
