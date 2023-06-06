@@ -1,6 +1,6 @@
 # Hello, I'm Blaž from Slovenia! 👋
 
-## 🎨 UI/UX Designer | 💻 Full Stack Developer | ⚛️ React Enthusiast
+## 🎨 UI/UX Designer | 💻 Full Stack Developer | ⚛️ React Enthusiast | 🔧 Computer Fixer | 🖥️ Windows Tweaker
 
 Welcome to my GitHub profile! I'm a passionate UI/UX designer with a love for crafting delightful designs, and a budding full stack developer who enjoys building responsive websites.
 
