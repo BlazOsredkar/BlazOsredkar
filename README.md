@@ -27,9 +27,13 @@ By integrating my knowledge of databases with my UI/UX design skills, I can crea
 Here's a list of technologies and languages I frequently work with:
 
 React (JavaScript/TypeScript)
+
 NestJS (Node.js/TypeScript)
+
 C++
+
 C#
+
 I'm always eager to expand my skill set and learn new technologies to stay up-to-date with the latest trends in the industry.
 
 🌱 Currently Learning
