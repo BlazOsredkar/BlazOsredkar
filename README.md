@@ -24,4 +24,5 @@ Let's connect and bring our ideas to life! ✨
 
 ---
 
-[![BlazOsredkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlazOsredkar)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blazosredkar&" alt="blazosredkar" /></p>
+
