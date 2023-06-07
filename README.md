@@ -24,5 +24,6 @@ Let's connect and bring our ideas to life! ✨
 
 ---
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blazosredkar&show_icons=true&locale=en&layout=compact" alt="blazosredkar" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blazosredkar&" alt="blazosredkar" /></p>
 
