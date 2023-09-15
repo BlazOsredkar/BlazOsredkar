@@ -2,7 +2,7 @@
 
 ## 🎨 UI Designer | 💻 Full Stack Developer | ⚛️ React Enthusiast | 🔧 Computer Fixer | 🖥️ Windows Tweaker
 
-Welcome to my GitHub profile! I'm a passionate UI/UX designer with a love for crafting delightful designs, and a budding full stack developer who enjoys building responsive websites.
+Welcome to my GitHub profile! I'm a passionate UI designer with a love for crafting delightful designs, and a budding full stack developer who enjoys building responsive websites.
 
 ### 💡 UI Design
 
@@ -14,7 +14,7 @@ I thrive on full stack web development projects, leveraging my skills in **React
 
 ### 🌱 Continuous Learning
 
-I have an insatiable appetite for knowledge and always stay up-to-date with the latest trends and technologies in the industry. In addition to UI/UX design and full stack development, I also have a strong understanding of how **operating systems work**. I can troubleshoot and fix computers, and I'm proficient in macOS, Windows, and Linux environments. 🚀
+I have an insatiable appetite for knowledge and always stay up-to-date with the latest trends and technologies in the industry. In addition to UI design and full stack development, I also have a strong understanding of how **operating systems work**. I can troubleshoot and fix computers, and I'm proficient in macOS, Windows, and Linux environments. 🚀
 
 ### 📫 Let's Connect
 
