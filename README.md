@@ -10,7 +10,7 @@ I believe that design goes beyond aesthetics—it's about enhancing the user exp
 
 ### 💻 Full Stack Web Development
 
-I thrive on full stack web development projects, leveraging my skills in **React** and **NestJS**. From front-end to back-end, I strive to build seamless applications that provide a smooth user experience. I'm also experienced in working with databases like **PostgreSQL** and **MariaDB** to ensure efficient data management. 💪
+I thrive on full stack web development projects, leveraging my skills in **React** and **NestJS**. From front-end to back-end, I strive to build seamless applications that provide a smooth user experience. Having worked extensively with **Ruby on Rails**, I know my way around it and have contributed to numerous projects using this framework. I'm also experienced in working with databases like **PostgreSQL** and **MariaDB** to ensure efficient data management. 💪
 
 ### 🌱 Continuous Learning
 
